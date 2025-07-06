@@ -1,7 +1,7 @@
 # account-dm-all
 Permet de DM, toutes les amis/personne que vous avez DM avec le message de votre choix ! 
 
----------------------------------------
+------------
 
   _____   _____  _  _    ______  _____     
  |  __ \\ |___ / | || |  |  ____||  __ \\    
