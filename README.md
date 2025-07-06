@@ -28,7 +28,7 @@ Permet de DM, toutes les amis/personne que vous avez DM avec le message de votre
 - Lance la commande :  
   npm install discord.js-selfbot-v13  
 
-4) Configurer ton bot  
+4) Configurer le script  
 - Ouvre le fichier config.json  
 - Remplace "TON_TOKEN_ICI" par ton token Discord (attention à ne pas le partager)  
 - Remplace "TON_MESSAGE_ICI" par le message que tu veux envoyer  
