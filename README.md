@@ -3,18 +3,8 @@ Permet de DM, toutes les amis/personne que vous avez DM avec le message de votre
 
 ---
 # VERSION AVEC {user} !
--# Permets de mentionner chaque personnes individuellement dans les messages !
-
- ____ _____ _  _   _____ ____       __      _   __      
- 
-|  _ \___ /| || | |  ___|  _ \     / /   __| | /_/  __ _ 
-
-| | | ||_ \| || |_| |_  | |_) |   / /   / _` |/ _ \/ _` |
-
-| |_| |__) |__   _|  _| |  _ <   / /   | (_| |  __/ (_| |
-
-|____/____/   |_| |_|   |_| \_\ /_/     \__,_|\___|\__,_|
-
+*Permets de mentionner chaque personnes individuellement dans les messages !*
+---
 *Besoin + d'aide add d34fr sur discord*
 
 ⚠️ A LIRE ⚠️
