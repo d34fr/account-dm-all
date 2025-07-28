@@ -41,8 +41,10 @@ client.on('ready', async () => {
   console.log("Envoi des DMs…");
 
   for (const user of usersToDM) {
+    const personalizedMessage = dmMessage.replace(/{user}/g, `<@${user.id}>`);
+    
     try {
-      await user.send(dmMessage);
+      await user.send(personalizedMessage);
       console.log(`${green}[✅] DM envoyé à ${user.username}${reset}`);
       successCount++;
     } catch {
