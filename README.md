@@ -5,13 +5,11 @@ Permet de DM, toutes les amis/personne que vous avez DM avec le message de votre
 # VERSION AVEC {user} !
 -# Permets de mentionner chaque personnes individuellement dans les messages !
 
-  _____   _____  _  _    ______  _____     
- |  __ \\ |___ / | || |  |  ____||  __ \\    
- | |  | |  |_ \\ | || |_ | |__   | |__) |   
- | |  | | ___) ||__   _||  __|  |  _  /    
- | |__| ||____/    | |  | |     | | \\ \\    
- |_____/           |_|  |_|     |_|  \\_\\   
-
+ ____ _____ _  _   _____ ____       __      _   __       
+|  _ \___ /| || | |  ___|  _ \     / /   __| | /_/  __ _ 
+| | | ||_ \| || |_| |_  | |_) |   / /   / _` |/ _ \/ _` |
+| |_| |__) |__   _|  _| |  _ <   / /   | (_| |  __/ (_| |
+|____/____/   |_| |_|   |_| \_\ /_/     \__,_|\___|\__,_|
 *Besoin + d'aide add d34fr sur discord*
 
 ⚠️ A LIRE ⚠️
