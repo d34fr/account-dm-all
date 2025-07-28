@@ -1,4 +1,4 @@
 {
-  "token": "TON_TOKEN_ICI",
-  "dmMessage": "TON_MESSAGE_ICI" 
+  "token": "Token",
+  "dmMessage": "{user} + Ton message (user pas obligatoire)" 
 }
